@@ -284,7 +284,5 @@ mod tests {
             let actual = sut.take(20);
             assert_eq!(actual, expected);
         }
-
-        #[te]
     }
 }
